@@ -37,18 +37,3 @@ I'm currently exploring opportunities to grow professionally while continuing to
 *Note: Source code is private due to academic policy or confidentiality.*
 
 ---
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maham-sheikh&theme=radical&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maham-sheikh&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=maham-sheikh&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🔝 Top Repositories:
-[![notMonkeyType](https://github-readme-stats.vercel.app/api/pin/?username=maham-sheikh&repo=notMonkeyType&theme=radical)](https://github.com/maham-sheikh/notMonkeyType)
-[![candidatemanagment](https://github-readme-stats.vercel.app/api/pin/?username=maham-sheikh&repo=WebAss&theme=radical)](https://github.com/maham-sheikh/candidatemanagment)
