@@ -1,6 +1,5 @@
 ## 💫 About Me:
-Hi 👋 I'm **Maham Sheikh**, a Computer Science graduate passionate about Web and App Development.  
-I recently completed my Final Year Project — a cross-platform business solution with both a **React Native mobile app** and a **React.js-based admin panel** integrated via **Firebase** and **Node.js**.
+Hi 👋 I'm **Maham Sheikh**, a Computer Science graduate passionate about Full Stack devolpement
 
 I'm currently exploring opportunities to grow professionally while continuing to build clean, user-friendly applications.
 
@@ -20,6 +19,7 @@ I'm currently exploring opportunities to grow professionally while continuing to
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 
 ---
@@ -28,9 +28,11 @@ I'm currently exploring opportunities to grow professionally while continuing to
 
 ### 🔒 Final Year Project (Private)
 > **Business App + Admin Panel**  
-> 🔹 *React Native mobile app for customer interface*  
+> 🔹 *React Native mobile app for customer and vendor interface*  
 > 🔹 *React.js admin panel for business management*  
-> 🔹 *Integrated with Firebase Auth, Firestore & Node.js backend*
+> 🔹 Firebase Authentication for secure login  
+> 🔹 SQL Database for storing and managing data  
+> 🔹 Node.js + Express.js backend for API integration
 
 *Note: Source code is private due to academic policy or confidentiality.*
 
